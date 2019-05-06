@@ -1,0 +1,6 @@
+C:\Users\gmahota\source\repos\Code\Avencas\BServices\bin\x86\Debug\BServices.dll
+C:\Users\gmahota\source\repos\Code\Avencas\BServices\bin\x86\Debug\BServices.pdb
+C:\Users\gmahota\source\repos\Code\Avencas\BServices\obj\x86\Debug\BServices.csprojAssemblyReference.cache
+C:\Users\gmahota\source\repos\Code\Avencas\BServices\obj\x86\Debug\BServices.csproj.CoreCompileInputs.cache
+C:\Users\gmahota\source\repos\Code\Avencas\BServices\obj\x86\Debug\BServices.dll
+C:\Users\gmahota\source\repos\Code\Avencas\BServices\obj\x86\Debug\BServices.pdb

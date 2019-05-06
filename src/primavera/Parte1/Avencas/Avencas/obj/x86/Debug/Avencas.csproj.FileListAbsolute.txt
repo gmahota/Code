@@ -1,0 +1,10 @@
+C:\Users\gmahota\source\repos\Code\Avencas\Avencas\bin\x86\Debug\Avencas.dll
+C:\Users\gmahota\source\repos\Code\Avencas\Avencas\bin\x86\Debug\Avencas.pdb
+C:\Users\gmahota\source\repos\Code\Avencas\Avencas\bin\x86\Debug\BServices.dll
+C:\Users\gmahota\source\repos\Code\Avencas\Avencas\bin\x86\Debug\BServices.pdb
+C:\Users\gmahota\source\repos\Code\Avencas\Avencas\obj\x86\Debug\Avencas.csprojAssemblyReference.cache
+C:\Users\gmahota\source\repos\Code\Avencas\Avencas\obj\x86\Debug\Avencas.csproj.CoreCompileInputs.cache
+C:\Users\gmahota\source\repos\Code\Avencas\Avencas\obj\x86\Debug\Avencas.csproj.CopyComplete
+C:\Users\gmahota\source\repos\Code\Avencas\Avencas\obj\x86\Debug\Avencas.dll
+C:\Users\gmahota\source\repos\Code\Avencas\Avencas\obj\x86\Debug\Avencas.pdb
+C:\Users\gmahota\source\repos\Code\Avencas\Avencas\bin\x86\Debug\Avencas.tlb
